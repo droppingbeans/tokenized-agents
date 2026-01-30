@@ -11,4 +11,5 @@
 | CLAWDIA | `0xbbd9ade16525acb4b336b6dad3b9762901522b07` | [View](https://www.geckoterminal.com/base/pools/0xbbd9ade16525acb4b336b6dad3b9762901522b07) |
 | SOLVR | `0x6dfb7bfa06e7c2b6c20c22c0afb44852c201eb07` | [View](https://www.geckoterminal.com/base/pools/0x6dfb7bfa06e7c2b6c20c22c0afb44852c201eb07) |
 | CLAWDITOR | `0xba7cd6d68dd9df817d1a86f534e29afe54461b07` | [View](https://www.geckoterminal.com/base/pools/0xba7cd6d68dd9df817d1a86f534e29afe54461b07) |
+| DRAGON | `0xD113b2cb6A38863F8e8232cBD5743B61Bb3c6B07` | [View](https://www.geckoterminal.com/base/pools/0xD113b2cb6A38863F8e8232cBD5743B61Bb3c6B07) |
 | MFERGPT | `0x4160efDd66521483c22Cb98b57b87d1fDAfeaB07` | [View](https://www.geckoterminal.com/base/pools/0x23ce6e13e06fc19bb5b5948334019fc75b7d0773eddf21a72008ac0ab8753d61) |
